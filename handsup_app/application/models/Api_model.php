@@ -468,13 +468,52 @@ class Api_model extends CI_Model{
 	}
 
 	//getCurrentUserProfile
-	function getCurrentUserProfile($user_id)
+	/*function getCurrentUserProfile($user_id)
 	{
-		echo $query = "SELECT u.full_name, CONCAT(city.eng_name,', ', countries.eng_country_name) as address, u.age, u.image_url as profile_pic, p.project_description, p.title as project_joined, proj.title as project_created FROM users u LEFT OUTER JOIN city ON u.city=city.id LEFT OUTER JOIN countries ON u.country=countries.id LEFT OUTER JOIN project_users pu ON u.id = pu.user_id LEFT OUTER JOIN projects p ON pu.project_id = p.id LEFT OUTER JOIN projects proj ON u.id = proj.user_id WHERE u.id=".$user_id;
-		exit();
+		$query = "SELECT u.full_name, CONCAT(city.eng_name,', ', countries.eng_country_name) as address, u.age, u.image_url as profile_pic, p.title as project_joined, p.project_description as joined_project_description, proj.title as project_created, proj.project_description as created_project_descriptions FROM users u LEFT OUTER JOIN city ON u.city=city.id LEFT OUTER JOIN countries ON u.country=countries.id LEFT OUTER JOIN project_users pu ON u.id = pu.user_id LEFT OUTER JOIN projects p ON pu.project_id = p.id LEFT OUTER JOIN projects proj ON u.id = proj.user_id WHERE u.id=".$user_id;
 		$query = $this->db->query($query);
 		if ($query->num_rows() > 0) {
 			return $query->result_array();
+		} else {
+			return false;
+		}
+	}*/
+
+
+	function getCurrentUserInfo($user_id)
+	{
+		$query = "SELECT u.full_name, CONCAT(city.eng_name,', ', countries.eng_country_name) as address, u.age, u.image_url as profile_pic FROM users u LEFT OUTER JOIN city ON u.city=city.id LEFT OUTER JOIN countries ON u.country=countries.id WHERE u.id=".$user_id;
+		$query = $this->db->query($query);
+		if ($query->num_rows() > 0) {
+			$record = $query->result_array();
+			return $record[0];
+		} else {
+			return false;
+		}
+	}
+
+	// getCurrentUserCreatedProjects
+	function getUserCreatedProjects($user_id)
+	{
+		$query = "SELECT p.title, p.project_description from projects p left outer join users u on p.user_id=u.id WHERE p.user_id =". $user_id;
+		$query = $this->db->query($query);
+		if ($query->num_rows() > 0) {
+			$record = $query->result_array();
+			return $record;
+		} else {
+			return false;
+		}
+	}
+
+	// getUserJoinedProjects
+	function getUserJoinedProjects($user_id)
+	{
+		$query = "SELECT p.title, p.project_description FROM projects p LEFT OUTER JOIN project_users pu ON p.id=pu.project_id LEFT OUTER JOIN users u ON pu.user_id = u.id WHERE u.id=".$user_id;
+
+		$query = $this->db->query($query);
+		if ($query->num_rows() > 0) {
+			$record = $query->result_array();
+			return $record;
 		} else {
 			return false;
 		}

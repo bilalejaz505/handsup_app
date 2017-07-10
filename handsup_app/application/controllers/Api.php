@@ -730,12 +730,42 @@ class Api extends CI_Controller {
 		exit;
 		
 	}
-	
+
+	// Bilal's Work Start
 	public function getCurrentUserProfile()
 	{
 		$user_id = $this->input->get('userID');
-		$user_info = $this->Api_model->getCurrentUserProfile($user_id);
-		echo '<pre>';print_r($user_info);exit();
+		$response['user_info'] = $this->Api_model->getCurrentUserInfo($user_id);
+		$response['created_projects'] = $this->Api_model->getUserCreatedProjects($user_id);
+		$response['joined_projects'] = $this->Api_model->getUserJoinedProjects($user_id);
+		$response['interests'] = $this->Api_model->getInterestByUserId($user_id);
+		$response['skills'] = $this->Api_model->getUserSkills($user_id);
+		$response['languages'] = $this->Api_model->getUserLanguages($user_id);
+		echo json_encode($response);
+		exit;
+	}
+
+	public function editProfile()
+	{
+		$inputs = $this->input->get();
+		$data['full_name'] = $inputs['full_name'];
+		$data['age'] = $inputs['age'];
+		$data['country'] = $inputs['countryID'];
+		$data['city'] = $inputs['cityID'];
+		if (isset($inputs['phone']))
+		{
+			$data['phone'] = $inputs['phone'];
+		}
+
+
+		$data['gender'] = $inputs['gender'];
+
+		$updated = $this->Api_model->updateRow('users', $data, 'id', $inputs['user_id']);
+
+		$response['success'] = '1';
+		$response['message'] = 'Data updated successfully.';
+		echo json_encode($response);
+		exit;
 	}
 
 }
