@@ -1,0 +1,149 @@
+---
+condition_new: Nouveau
+condition_used: Occasion
+condition_pre_owned: PC d'occasion certifiés
+condition_recondition: reconditionner
+condition_other: Autre
+condition_sold: Vendu
+condition_available: Disponible
+sign_in: Connexion
+sign_up: S'inscrire
+admin_panel: 'panneau d&#39;administration'
+logout: Déconnexion
+advanced_search: TEST TRADUCTION 2
+home: Accueil
+about: Page de crédits
+contact: Contact
+plain_search: Recherche Plaine
+ignore_this_section: Ignorer cette section
+location_search: Recherche par position
+country: Pays
+state_province: État/province
+city: Ville
+price: Prix
+phone: Téléphone
+first_name: Prénom
+last_name: Nom
+company_name: Nom de la société
+register: ﻿Inscription
+type: Type
+details: Détails
+view_all: Voir tout
+order_by: Trier par
+none: Aucun(e)
+terms_and_conditions: Termes et Confition
+reg_success_message: Votre inscription en compte est réussie. Un e-mail a été envoyé à votre adresse email. Se il vous plaît suivre ce courriel pour activer vos account.Thanks
+limit: Limite
+usage: Utilisation
+recover: Recovery
+oops: Oups!! Page non trouvée.
+share_this: partagez
+status: Statut
+description: Description
+location_map: Carte du lieu
+image_gallery: Plus d'images
+summary: L&rsquo;extrait
+overview: Vue d'ensemble
+address: Adresse
+message: Message
+username: Nom d'utilisateur / Username
+about_me: À propos de moi
+type_filters: Filtres
+email_subject: Sujet du courriel
+all: Tout
+deleted: ﻿Supprimé
+contact_us: Nous contacter
+active: Active
+pending: En attente
+reported: Rapport
+featured_video: Vidéo mise en avant
+embed_video_url: Embeded URL de la vidéo
+profile_picture: Photo de profil
+cars: Véhicules
+car: Voiture
+manufacturers: Fabricants
+car_type: Type de véhicule
+car_manufacturer: Constructeur automobile
+car_model: Modèle de véhicule
+year: Année
+mileage: Kilomètres
+condition: Condition
+specifications: Spécifications
+dimensions: Dimensions
+reg_no: Registre N^.
+engine_size: Cylindrée
+engine_type: Carburant
+exterior_color: Couleur extérieur
+interior_color: Couleur intérieure
+fuel_type: Type de carburant
+safety_rating: Note de sécurité
+standard_seating: Capacité standard
+steering_type: Type de directeur
+height: Hauteur
+width: Largeur
+length: Longueur
+wheelbase: Empattement
+track_rear: Voie arrière
+track_front: Voie avant
+ground_clearance: garde au sol
+manufacturer: Fabriquant
+body_type: Carrosserie
+featured_cars: Voitures à la une
+recent_cars: Voitures récents
+select_manufacturer: Sélectionnez Fabricant
+select_model: Sélectionnez un modèle
+price_range: Tranche de prix de
+select_type: Sélectionner un type
+model_year: l’année du modèle.
+filter_vehicles: Filtre Véhicules
+no_cars_found: Pas de voitures trouvés
+dealers: Concessionnaires
+all_dealers: Tous les concessionnaires
+top_dealers: Top concessionnaires
+top_cars: Top Cars
+dealer_cars: Voitures du dealer
+dealer_location: Concessionnaire Emplacement
+dealer: Vendeur
+model: Modèle
+zip_code: Code postal
+transmission: Boîte vitesse
+tags: Mots-clés
+no_dealers_found: Pas de concessionnaires trouvés
+dealer_vehicles: Véhicules Dealer
+result: ﻿Résultat
+dealer_not_found: Concessionnaire introuvable
+payment_finish_title: Le paiement complet
+payment_renew_title: Le paiement complet
+payment_finish_text: Votre paiement est complète. Dès que nous avons reçu la confirmation de votre compte paypal sera activé
+payment_renew_text: Votre paiement est complète. Dès que nous avons reçu la confirmation de votre compte paypal sera renouvelé
+payment_cancel_title: Page pour annuler le paiement
+payment_cancel_text: Votre paiement est annulé
+feature_payment_finish: Votre paiement est complète. Dès que nous recevons la confirmation de paypal, votre succession sera présenté.
+feature_payment_cancel: Votre paiement est annulé.
+payment_notification: Vous allez effectuer un paiement. Un email est envoyé à votre adresse email. Vous pouvez revenir à cette étape tout moment depuis le lien sur cet e-mail.
+type_filers: Filtres
+view_listing: Voir la fiche
+car_added_successfully: Voiture ajouté avec succès
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+other_info: Autres informations
+basic_info: Informations de base
+contact_subject: 'Formulaire de contact - Sujet'
+dealer_panel: Panneau de Marchand
+list_your_car: Inscrivez votre voiture
+share: Partager
+search: Поиск
+all_email_to_dealer: Tous les messages pour courtier
+embed_preview: Intégrer Aperçu
+car_brochure: Brochure de voitures
+pages: Pages
+post_not_found: Aucun article trouvé !
+blog: Blog
+news: Actualités
+article: Article
+change_package: Changer le package
+bi_payment_cancel_title: Paiement annulé
+mileage_range: Gamme Kilométrage
+select_transmission_type: Choisissez Transmission
+select_car_condition: Sélectionner condition
+enter_above_text: Entrez le texte du dessus

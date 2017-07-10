@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9dd1ca08-4a22-4e0e-9490-4e8bfff3daa6" name="key.ed.sa/dev" url="http://key.ed.sa/">
+        <fileTransfer host="key.ed.sa" port="21" rootFolder="/public_html/dev" password="dff2dfdddfd7dfd9df97dfffdfccdfc9dfc2dfe8df8cdff2" username="keyed">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

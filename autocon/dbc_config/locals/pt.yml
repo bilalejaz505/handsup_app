@@ -1,0 +1,142 @@
+---
+condition_new: Novo
+condition_used: Utilizado
+condition_pre_owned: Certified Pre-possuído
+condition_recondition: Recondicionamento
+condition_other: Outros
+condition_sold: Vendida!
+condition_available: Disponível
+sign_in: Iniciar sessão
+sign_up: Registe-se
+admin_panel: Painel de Administração
+logout: Sair
+advanced_search: Pesquisa Avançada
+home: Início
+about: Sobre
+contact: Contato
+plain_search: Pesquisa Plain
+ignore_this_section: Ignorar esta seção
+location_search: Localização Pesquisa
+country: País
+state_province: Estado/Província
+city: Cidade
+price: Preço
+phone: Telefone
+first_name: Nome Próprio
+last_name: Sobrenome
+company_name: Nome da Empresa
+register: Registrar
+type: Tipo
+details: Detalhes
+view_all: Ver tudo
+order_by: 'Ordenar por:'
+none: Nenhuma
+terms_and_conditions: Termos e Confition
+reg_success_message: O seu registo conta é bem sucedido. Um e-mail foi enviado para o seu e-mail. Por favor, siga o e-mail para ativar suas account.Thanks
+limit: Limite
+usage: Utilização
+recover: Recuperar
+oops: Página não encontrada
+share_this: Partilhar esta aplicação
+status: Estado
+description: Descrição
+location_map: Mapa da Localização
+image_gallery: Galeria de Imagens
+summary: Resumo
+overview: Visão Geral
+address: Endereço
+message: Mensagem
+username: Nome do usuário
+about_me: sobre mim
+type_filters: Tipo Filtros
+email_subject: Assunto do e-mail
+all: Tudo
+deleted: Excluído
+contact_us: Entre em contato conosco
+active: Ativo
+pending: Pendente
+reported: Informou
+featured_video: Vídeo em Destaque
+embed_video_url: Embeded Video Url
+profile_picture: A sua imagem de perfil
+cars: Veículos
+car: Carro
+manufacturers: Fabricantes
+car_type: Tipo de carro
+car_manufacturer: Indústria automobilística
+car_model: Modelo do carro
+year: Ano
+mileage: Quilometragem
+condition: Condição
+specifications: Especificações
+dimensions: Dimensões
+reg_no: Número de registo
+engine_size: Cilindrada
+engine_type: Tipo de motor
+exterior_color: Cor Exterior
+interior_color: Cor interior
+fuel_type: Tipo de Combustível
+safety_rating: Classificação de segurança
+standard_seating: Assento padrão
+steering_type: Tipo de direção
+height: Altura
+width: Largura
+length: Comprimento
+wheelbase: Distância entre os eixos
+track_rear: Trilha traseira
+track_front: Trilha dianteira
+ground_clearance: Distância ao solo
+manufacturer: Fabricante
+body_type: Tipo de corpo
+featured_cars: 'Carros Indicados:'
+recent_cars: Carros recentes
+select_manufacturer: Selecione o fabricante
+select_model: Selecione o modelo
+price_range: Faixa de preço
+select_type: Seleccionar o Tipo
+model_year: ano do modelo.
+filter_vehicles: Filtro de veículos
+no_cars_found: Carros não encontrados
+dealers: Traficantes
+all_dealers: Todos os negociantes
+top_dealers: Principais revendedores
+dealer_cars: Carros de revendedor
+dealer_location: Localização de revendedor
+dealer: Revendedor
+model: Modelo
+zip_code: Código Postal (CEP)
+transmission: Transmissão
+tags: Marcações
+no_dealers_found: Nenhum concessionários encontrados
+dealer_vehicles: Veículos de revendedor
+result: Resultado
+dealer_not_found: Traficante não encontrado
+payment_finish_title: Completar o pagamento
+payment_renew_title: Completar o pagamento
+payment_finish_text: Seu pagamento está completo. Assim que recebeu a confirmação do paypal sua conta será ativada
+payment_renew_text: Seu pagamento está completo. Assim que recebeu a confirmação do paypal a sua conta será renovada
+payment_cancel_title: Pagamento Cancelar
+payment_cancel_text: O seu pagamento é cancelado
+feature_payment_finish: Seu pagamento está completo. Assim que receber a confirmação do paypal, sua propriedade será apresentado.
+feature_payment_cancel: Seu pagamento será cancelado.
+payment_notification: Você vai fazer um pagamento. Um e-mail é enviado para o seu e-mail. Você pode voltar para esta etapa a qualquer hora a partir do link em que e-mail.
+type_filers: Tipo Filtros
+view_listing: Ver listagem
+car_added_successfully: Carro adicionado com sucesso
+email_tracker: Email Tracker
+bulk_email: Spam
+other_info: Outras Informações
+basic_info: Informação Básica
+contact_subject: Assunto contato
+dealer_panel: Painel de revendedor
+list_your_car: Listar seu carro
+share: Partilhar
+search: Pesquisar
+all_email_to_dealer: Todos os E-mail para revendedor
+embed_preview: Embed prévia
+car_brochure: Brochura de carro
+pages: Páginas
+post_not_found: Não Post encontrado
+blog: Blog
+news: Notícias
+article: Artigo

@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ width:100%; background:#fff; margin:0; padding:0; }
+
+.mainWrap{ width:600px; height:auto; margin:auto;}
+
+.topbar{ float:left; width:600px; height:20px; background:#0085b2;}
+
+.topLogoContainer{ float:left; width:600px; height:auto; padding:8px 0px 8px 0px;}
+
+.NesmaEmailLogo{ float:left; background:url(../images/nesmaLogoEmailTemp.png) no-repeat; border:none; width:160px; height:53px;}
+
+.ColorBg{ background:#444444; width:440px; height:53px; float:left;}
+
+.descWrap{ width:580px; height:auto; margin-top:30px; padding:10px; background:#eeeeee; float:left;margin-bottom: 10px; }
+
+.title{ float:left; width:550px; height:auto; font-family:Arial, Helvetica, sans-serif; color:#666; font-size:12px; font-weight:bold;}
+
+.detail{ color: #333333;
+    float: left;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+ 
+    height: auto;
+    line-height: 1.6;
+    padding-top: 10px;
+    width: 575px;}
+	
+	.signature{float:left; width:550px; height:auto; font-family:Arial, Helvetica, sans-serif; color:#666; font-size:12px; font-weight:bold;}
+	
+	.footerStrip{ float:left; width:600px; height:30px; background:#444444;}

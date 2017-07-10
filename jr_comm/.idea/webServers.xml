@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="265b242e-71cc-4602-8da5-32520988ad65" name="Travian Builder" url="http://www.usmanakram.me/users/sarfrazriaz/travian.com/">
+        <fileTransfer host="ftp.usmanakram.me" port="21" rootFolder="/travian.com" password="df92df9adf93df9edf93df9edfd9dfcbdfd8" username="sarfrazriaz@usmanakram.me">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

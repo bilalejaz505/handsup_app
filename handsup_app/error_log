@@ -1,0 +1,51 @@
+[23-May-2017 11:33:07 UTC] PHP Fatal error:  Call to a member function updateRow() on null in /home/schopfenbeta/public_html/application/controllers/Api.php on line 146
+[23-May-2017 11:33:07 UTC] PHP Fatal error:  Call to a member function updateRow() on null in /home/schopfenbeta/public_html/application/controllers/Api.php on line 146
+[29-May-2017 12:22:43 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Model_general.php on line 264
+[29-May-2017 12:38:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/schopfenbeta/public_html/application/views/users/manage.php on line 80
+[29-May-2017 12:38:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/schopfenbeta/public_html/application/views/users/manage.php on line 80
+[29-May-2017 19:50:09 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 69
+[14-Jun-2017 19:04:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/schopfenbeta/public_html/application/controllers/Api.php on line 440
+[14-Jun-2017 19:04:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/schopfenbeta/public_html/application/controllers/Api.php on line 440
+[17-Jun-2017 15:45:32 UTC] PHP Fatal error:  Call to undefined method CI_Input::getProjectList() in /home/schopfenbeta/public_html/application/controllers/Api.php on line 528
+[17-Jun-2017 15:46:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/schopfenbeta/public_html/application/controllers/Api.php on line 362
+[18-Jun-2017 19:19:11 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 147
+[18-Jun-2017 19:42:25 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 284
+[18-Jun-2017 19:42:42 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 284
+[24-Jun-2017 07:51:33 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 147
+[24-Jun-2017 07:57:14 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 147
+[24-Jun-2017 08:00:56 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 137
+[24-Jun-2017 15:29:36 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 339
+[24-Jun-2017 15:29:39 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 339
+[24-Jun-2017 18:28:53 UTC] PHP Fatal error:  Cannot redeclare Api::updateDraftedProject() in /home/schopfenbeta/public_html/application/controllers/Api.php on line 634
+[24-Jun-2017 18:28:56 UTC] PHP Fatal error:  Cannot redeclare Api::updateDraftedProject() in /home/schopfenbeta/public_html/application/controllers/Api.php on line 634
+[24-Jun-2017 19:00:11 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 06:05:27 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 06:05:40 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 06:05:57 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 06:06:08 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 06:06:59 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 173
+[25-Jun-2017 06:08:03 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 173
+[25-Jun-2017 06:08:22 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 173
+[25-Jun-2017 06:10:16 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 173
+[25-Jun-2017 06:10:56 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 06:11:11 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 06:22:14 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 08:14:46 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 08:14:46 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 173
+[25-Jun-2017 08:26:15 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 173
+[25-Jun-2017 08:27:31 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 08:27:35 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 173
+[25-Jun-2017 08:29:31 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 08:29:36 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 08:30:09 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 08:30:12 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 08:32:18 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 273
+[25-Jun-2017 09:00:11 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 173
+[25-Jun-2017 09:43:51 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 337
+[25-Jun-2017 15:03:05 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 433
+[25-Jun-2017 15:10:35 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 163
+[29-Jun-2017 13:29:52 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 443
+[29-Jun-2017 13:45:31 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 454
+[30-Jun-2017 12:34:40 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 163
+[30-Jun-2017 14:21:58 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 388
+[30-Jun-2017 14:22:03 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/schopfenbeta/public_html/application/models/Api_model.php on line 388

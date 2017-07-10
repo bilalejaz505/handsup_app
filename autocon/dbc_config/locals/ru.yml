@@ -1,0 +1,144 @@
+---
+condition_new: Создать
+condition_used: Используемый
+condition_pre_owned: Сертифицированный Пред Находящийся в собственности
+condition_recondition: Восстанавливать
+condition_other: Прочее?
+condition_sold: Проданный
+condition_available: Доступный
+sign_in: войдите в систему
+sign_up: Зарегистрироваться
+admin_panel: Панель администратора
+logout: Выход
+advanced_search: расширенный поиск
+home: Дом
+about: О нас
+contact: Контакты
+plain_search: Обычная Поиск
+ignore_this_section: Пропустите этот раздел
+location_search: Расположение поиск
+country: "Страна"
+state_province: Штат/область
+city: "Город""
+price: Цена
+phone: 'Тел.:'
+first_name: "Имя""
+last_name: "Фамилия""
+company_name: Название компании
+register: Зарегистрироваться
+type: Тип
+details: Подробности
+view_all: Мониторы Электроника и принадлежности
+order_by: 'Сортировать по:'
+none: -
+terms_and_conditions: Условия и Confition
+reg_success_message: Ваш регистрационный счет удачной. Письмо было отправлено по электронной почте. Пожалуйста, следуйте ту электронную почту, чтобы активировать account.Thanks
+limit: Лимит
+usage: 'Польза:'
+recover: Восстановление
+oops: Нам, страница не найдена
+share_this: Поделиться этой
+status: Состояние
+description: Описание
+location_map: Расположение на карте
+image_gallery: Поддержка
+summary: Краткую сводку
+overview: Общий обзор
+address: Адрес
+message: Сообщение
+username: паывпавПользователь
+about_me: Обо мне
+type_filters: Тип Фильтры
+email_subject: Тема электронного письма
+all: Все
+deleted: Delete
+contact_us: Обращайтесь к нам
+active: Активен
+pending: В ожидании
+reported: Сообщается
+featured_video: Лучшее видео
+embed_video_url: Embeded Ссылка на видео
+profile_picture: Профиль фото
+cars: Легковые автомомбили
+car: Автоаварии
+manufacturers: Обрабатывающая промышленность
+car_type: Тип автомобиля
+car_manufacturer: Автомобиль Производитель
+car_model: Модель автомобиля
+year: Год
+mileage: Пробег
+condition: Состояние
+specifications: Характеристики
+dimensions: Размеры
+reg_no: регистрационный № ______
+engine_size: Рабочий объём
+engine_type: Тип двигателя
+exterior_color: Цвет кузова
+interior_color: 'Цвет интерьера'
+fuel_type: Тип топлива
+safety_rating: Уровень безопасности
+standard_seating: Стандартный Гостиный
+steering_type: Тип руля
+height: Высота
+width: Ширина
+length: Length
+wheelbase: Длина
+track_rear: Колея задних колес
+track_front: Колея передняя
+ground_clearance: Дорожный просвет
+manufacturer: Производитель
+body_type: Тип кузова
+featured_cars: Избранные Автомобили
+recent_cars: Последние Автомобили
+select_manufacturer: Выберите производителя
+select_model: Выберите модель
+price_range: Диапазон цен
+select_type: Выберите тип
+model_year: Год
+filter_vehicles: Фильтр автомобиль
+no_cars_found: Нет Автомобили найдены
+dealers: Аксессуары
+all_dealers: Все дилеры
+top_dealers: Лучшие дилеры
+dealer_cars: Дилерские Автомобили
+dealer_location: Дилер Расположение
+dealer: Дилер
+model: Модель
+zip_code: ZIP-код
+transmission: Передача
+tags: Таг
+no_dealers_found: Нет Дилеры не найдены
+dealer_vehicles: Дилерские автомобиль
+result: Результат
+dealer_not_found: Дилер не найдены
+payment_finish_title: Оплата Полный
+payment_renew_title: Оплата Полный
+payment_finish_text: Ваш платеж будет завершена. Как только мы получили подтверждение от Paypal Ваш аккаунт будет активирован
+payment_renew_text: Ваш платеж будет завершена. Как только мы получили подтверждение от PayPal аккаунт будет продлен
+payment_cancel_title: Оплата Отменить
+payment_cancel_text: Ваш платеж будет отменен
+feature_payment_finish: Ваш платеж будет завершена. Как только мы получим подтверждение от PayPal, ваше имущество будет показан.
+feature_payment_cancel: Ваш платеж будет отменен.
+payment_notification: Вы собираетесь совершить платеж. Письмо будет отправлено по электронной почте. Вы можете вернуться к этой стадии в любое время по ссылке на этой электронной почте.
+type_filers: Тип Фильтры
+view_listing: Просмотреть список
+car_added_successfully: Автомобиль успешно добавлен
+email_tracker: E-mail Tracker
+bulk_email: Спам
+other_info: Другие информация
+basic_info: Основная информация
+contact_subject: Связаться с учетом
+dealer_panel: Панель Дилер
+list_your_car: Перечислите Ваш Автомобиль
+share: Поделиться
+search: Поиск
+all_email_to_dealer: Все E-mail Для дилером
+embed_preview: Вставить изображение
+car_brochure: Автомобиль Брошюра
+pages: Страницы
+post_not_found: Нет Сообщение не найдены
+blog: Блог
+news: Новости
+article: Артикул
+change_package: Изменить пакет
+bi_payment_cancel_title: Оплата Отменен

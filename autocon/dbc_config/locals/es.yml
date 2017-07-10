@@ -1,0 +1,145 @@
+---
+condition_new: Nuevo
+condition_used: Utilizado
+condition_pre_owned: Usados ​​certificados
+condition_recondition: Reacondicionar
+condition_other: Otra
+condition_sold: Vendido
+condition_available: Disponible
+sign_in: Iniciar sesión
+sign_up: Registrarse
+admin_panel: Panel de administración
+logout: Salir
+advanced_search: Búsqueda avanzada
+home: Inicio
+about: Acerca de
+contact: Contacto
+plain_search: Llanura Buscar
+ignore_this_section: No haga caso de esta sección
+location_search: Buscar una localidad
+country: País
+state_province: Estado/Provincia
+city: Ciudad
+price: Precio
+phone: Teléfono
+first_name: Nombre
+last_name: Apellidos
+company_name: Nombre de la empresa
+register: Registro
+type: Tipo
+details: Detalles
+view_all: Ver todo
+order_by: 'Ordenar por:'
+none: Ninguno
+terms_and_conditions: Términos y Confition
+reg_success_message: Su registro de la cuenta es exitosa. Un correo electrónico fue enviado a su correo electrónico. Por favor, siga ese correo para activar sus account.Thanks
+limit: Límite
+usage: Uso
+recover: Recuperar
+oops: Vaya, página no encontrada
+share_this: Share This
+status: Estado
+description: Descripción
+location_map: Mapa de ubicación
+image_gallery: Galería de imágenes
+summary: Resumen
+overview: Generalidades
+address: Dirección
+message: Mensaje
+username: Nombre de usuario
+about_me: Acerca de mí
+type_filters: Tipo de Filtros
+email_subject: Línea de asunto del correo electrónico
+all: Todos
+deleted: Borrado
+contact_us: Contáctenos
+active: Activo
+pending: Pendiente
+reported: Reportado
+featured_video: Video del día
+embed_video_url: Embeded Vídeo Url
+profile_picture: Foto de Perfil
+cars: Coches
+car: Coche
+manufacturers: Fabricantes
+car_type: Tipo de Vehículo
+car_manufacturer: Fabricante de coches
+car_model: Modelo de coche
+year: Año
+mileage: Kilometraje
+condition: Condición
+specifications: Especificaciones
+dimensions: Dimensiones
+reg_no: Número de registro
+engine_size: Tamaño del motor
+engine_type: Motor de combustión interna
+exterior_color: Color Exterior
+interior_color: Color Interior
+fuel_type: Combustible
+safety_rating: Clasificación de seguridad
+standard_seating: Norma Asientos
+steering_type: Tipo de dirección
+height: Altura
+width: Ancho
+length: Periodo
+wheelbase: Distancia entre ejes
+track_rear: Vía trasera
+track_front: Vía delantera
+ground_clearance: Distancia al suelo
+manufacturer: Fabricante
+body_type: Tipo de cuerpo
+featured_cars: Coches destacados
+recent_cars: Coches recientes
+select_manufacturer: Seleccione un fabricante
+select_model: Seleccione el modelo
+price_range: Rango de precios
+select_type: Seleccionar tipo
+model_year: Modelo Año
+filter_vehicles: Filtro Vehículos
+no_cars_found: No hay coches encontrados
+dealers: Distribuidores
+all_dealers: Todos los Distribuidores
+top_dealers: Top Distribuidores
+top_cars: Top Cars
+dealer_cars: Coches del concesionario
+dealer_location: Dealer Ubicación
+dealer: Comerciante
+model: Modelo
+zip_code: Código ZIP
+transmission: Transmisión
+tags: Etiquetas
+no_dealers_found: No se han encontrado Distribuidores
+dealer_vehicles: Vehículos Comerciante
+result: Resultado
+dealer_not_found: Dealer no encontrado
+payment_finish_title: Completo pago
+payment_renew_title: Completo pago
+payment_finish_text: Su pago se ha realizado. Tan pronto como recibimos la confirmación de paypal a su cuenta se activará
+payment_renew_text: Su pago se ha realizado. Tan pronto como recibimos la confirmación de paypal a su cuenta se renovará
+payment_cancel_title: Pago Cancelar
+payment_cancel_text: Su pago se cancela
+feature_payment_finish: Su pago se ha realizado. Tan pronto como recibamos la confirmación de paypal, se presentará su patrimonio.
+feature_payment_cancel: Su pago se cancela.
+payment_notification: Usted va a hacer un pago. Un correo electrónico se envía a su correo electrónico. Puede realizar una copia de este paso en cualquier momento desde el enlace de ese correo electrónico.
+type_filers: Tipo de Filtros
+view_listing: Ver Detalles
+car_added_successfully: Coche agregado con éxito
+email_tracker: Email Rastreador
+bulk_email: Correo electrónico masivo
+other_info: Otra información
+basic_info: Información Básica
+contact_subject: Contacto Asunto
+dealer_panel: Panel Dealer
+list_your_car: Vende tu Auto
+share: Compartir
+search: Buscar
+all_email_to_dealer: Todo el correo a Dealer
+embed_preview: Insertar Prevista
+car_brochure: Folleto de coches
+pages: Páginas
+post_not_found: No Mensaje Found
+blog: Blog
+news: Noticias
+article: Artículo
+change_package: Cambiar Paquete
+bi_payment_cancel_title: Pago Cancelado

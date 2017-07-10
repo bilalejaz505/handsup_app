@@ -1,0 +1,33 @@
+.control-label{
+	float: right !important;
+}
+.controls{
+	float: right !important;
+}
+.nav-tabs > li{
+	float: right !important;
+}
+.tabbable .nav-tabs{
+	padding: 0px !important;
+}
+.nav-list > li .submenu > li > a, .nav-list > li .submenu > li > span, .nav-list > li .submenu > li > ul > li > a{
+	padding: 7px 10px 8px 42px !important;
+}
+.navbar .navbar-brand{
+	float: right !important;
+}
+.pull-right{
+	float: left !important;
+}
+
+#main-content{
+    margin-right: 250px;
+    margin-left: 0px !important;
+}
+
+@media (max-width: 768px) {
+    #main-content{
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
+}

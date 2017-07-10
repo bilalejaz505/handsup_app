@@ -1,0 +1,111 @@
+.ar .lang_select {
+    background-repeat: no-repeat;
+    left: 0;
+}
+
+.ar .nav-pills > li:last-child > a{
+margin-left: 0 !important;
+ margin-right: 8px;
+ text-align:right;
+}
+.ar .sidebar {
+    float: right;
+}
+.ar .search-box h2{text-align: right !important;
+}
+.ar .search-box ul li label input{
+float: right !important;
+    margin-right: 5px;
+}
+.ar .search-box ul li label{float: right !important;
+}
+.ar p {
+    margin: 0 10px 0 0;
+    text-align: right;
+    direction: rtl;
+}
+.ar .homepremo {
+    float: right;
+}
+.ar .btn-bloo {
+    float: right;
+    margin: 0 12px 0 0 !important;
+}
+.ar input {
+    text-align: right;
+}
+.ar .footertext {
+    float: left !important;
+}
+
+.ar_menu li {
+    float: right;
+}
+.ar .span3.footertext {
+    float: left;
+    text-align: left;
+}
+.ar .span9 {
+    float: right;
+}
+.ar .content-info .span9 > a {
+    float: right;
+}
+.ar .footer_lists {
+    float: right;
+}
+.ar li.menu-home a, li.menu-booking a, li.menu-flying-with-nesma a, li.menu-information a, li.menu-services a, li.menu-contact-us a {
+    background-position: left bottom;
+    background-repeat: no-repeat;
+}
+.ar .nav-pills > li > a{
+    text-align: right;
+}
+.ar .footer_lists li {
+    text-align: right;
+}
+.ar .footer_lists h1{
+    text-align: right;
+}
+.ar .active.menu-home > a {
+    background-position: 19px 19px !important;
+}
+.ar{
+background: url("../img/ar_bg.gif") no-repeat fixed center top rgba(0, 0, 0, 0);}
+.ar .sbOptions a {
+    padding: 7px 3px 7px 0 !important;
+    text-align: right !important;
+}
+.ar .homepromo.promo1{
+    margin-top: 0px !important;
+    float: left !important;
+    margin-left: 20px ;
+}
+.ar .span4.elevate {
+    float: right !important;
+    margin-top: 31px;
+}
+.ar h1{
+    text-align: right !important;
+}
+.ar h2{
+    text-align: right !important;
+}
+.ar .submenu ul li {
+    display: inline;
+    float: right;
+    text-align: center;
+}
+.ar_promo_1 {
+    margin-right: 20px !important;
+    margin-left: 0 !important;
+}
+
+.ar li{text-align:right;
+direction: rtl;}
+.ar .alignright {
+    float: left;
+}
+.ar h3 {
+    text-align: right;
+}
