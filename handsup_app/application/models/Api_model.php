@@ -470,7 +470,8 @@ class Api_model extends CI_Model{
 	//getCurrentUserProfile
 	function getCurrentUserProfile($user_id)
 	{
-		$query = "SELECT u.full_name, CONCAT(city.eng_name, country.eng_country_name) as city_name,  p.title as project_title, FROM users u LEFT OUTER JOIN project_users pu ON u.id=pu.user_id WHERE pu.project_id=".$project_id." AND pu.user_id = ".$user_id;
+		echo $query = "SELECT u.full_name, CONCAT(city.eng_name,', ', countries.eng_country_name) as address, u.age, u.image_url as profile_pic, p.project_description, p.title as project_joined, proj.title as project_created FROM users u LEFT OUTER JOIN city ON u.city=city.id LEFT OUTER JOIN countries ON u.country=countries.id LEFT OUTER JOIN project_users pu ON u.id = pu.user_id LEFT OUTER JOIN projects p ON pu.project_id = p.id LEFT OUTER JOIN projects proj ON u.id = proj.user_id WHERE u.id=".$user_id;
+		exit();
 		$query = $this->db->query($query);
 		if ($query->num_rows() > 0) {
 			return $query->result_array();
