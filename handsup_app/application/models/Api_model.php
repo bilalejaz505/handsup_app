@@ -76,8 +76,8 @@ class Api_model extends CI_Model{
         
             $this->db->select('*');
             $this->db->from($table_name);
-			$this->db->where($search);            
-			$query = $this->db->get();	
+			$this->db->where($search);
+			$query = $this->db->get();
 			return $query->num_rows();
     }
 	
@@ -131,8 +131,19 @@ class Api_model extends CI_Model{
         } else {
             return false;
         }
-    } 
-	
+    }
+
+	public function deleteRowWhere($table_name, $where) {
+		$this->db->where($where);
+		$this->db->delete($table_name);
+		if ($this->db->affected_rows() > 0) {
+			return true;
+
+		} else {
+			return false;
+		}
+	}
+
 	//get
 	function getSingleRow($table_name, $search, $isArr = false) {
         
@@ -153,6 +164,27 @@ class Api_model extends CI_Model{
 				return false;
 			}
     }
+
+	//get
+	function getMultipleRows($table_name, $search, $isArr = false) {
+
+		$this->db->select('*');
+		$this->db->from($table_name);
+		$this->db->where($search);
+		$query = $this->db->get();
+		if ($query->num_rows() > 0) {
+			if($isArr)
+			{
+				return $query->result_array();
+			}
+			else
+			{
+				return $query->result();
+			}
+		} else {
+			return false;
+		}
+	}
 	
 	//getInterestByUserId
 	function getInterestByUserId($user_id)
@@ -480,7 +512,7 @@ class Api_model extends CI_Model{
 	}*/
 
 
-	function getCurrentUserInfo($user_id)
+	function getUserInfo($user_id)
 	{
 		$query = "SELECT u.full_name, CONCAT(city.eng_name,', ', countries.eng_country_name) as address, u.age, u.image_url as profile_pic FROM users u LEFT OUTER JOIN city ON u.city=city.id LEFT OUTER JOIN countries ON u.country=countries.id WHERE u.id=".$user_id;
 		$query = $this->db->query($query);
